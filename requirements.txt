@@ -2,3 +2,4 @@ pandas
 numpy
 matplotlib
 send-3-test
+jupyter-collaboration
